@@ -1,0 +1,9 @@
+.person {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  width: 10%;
+  border-radius: 50px;
+}
